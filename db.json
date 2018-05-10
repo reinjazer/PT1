@@ -1,8 +1,8 @@
 {
   "pingTest1": 
   {
-  	"STATUS": "ERROR",
-  	"ERROR_DESC": "Unable to retrieve information. Please try Again.",
+  	"STATUS": "SUCCESS",
+  	"ERROR_DESC": "Unable to retrieve information. Please try again.",
 	"Z_LIST":[
 	    { "ZMAC_ADD": "E1-4E-B6-B3-73-26", "ZTX": "12", "ZRX":"23" },
 	    { "ZMAC_ADD": "7C-5A-99-45-05-E2", "ZTX": "54", "ZRX":"49" },
