@@ -1,7 +1,7 @@
 {
   "pingTest1": 
   {
-  	"STATUS": "",
+  	"STATUS": "SUCCESS",
   	"ERROR_DESC": "",
 	"Z_LIST":[
 	    { "ZMAC_ADD": "E1-4E-B6-B3-73-26", "ZTX": "12", "ZRX":"23" },
