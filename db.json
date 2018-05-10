@@ -16,8 +16,8 @@
   },
   "pingTest2": 
   {
-	"STATUS": "",
-  	"ERROR_DESC": "",
+	"STATUS": "SUCCESS",
+  	"ERROR_DESC": "Unable to retrieve information. Please try again.",
 	"Z_LIST":[
 	    { "ZPING_IPADD": "181.206.172.56", "ZPING_MAX": 234, "ZPING_AVE": 43, "ZPING_LOST": 0},
 	    { "ZPING_IPADD": "23.187.13.131", "ZPING_MAX": 234, "ZPING_AVE": 23, "ZPING_LOST": 0},
