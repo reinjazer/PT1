@@ -39,12 +39,12 @@
   },
   "GPS2": {
     "ZUBX_ESFM_GYROZ": 16.034,
-    "STATUS": "",
-  	"ERROR_DESC": ""
+    "STATUS": "SUCCESS",
+    "ERROR_DESC": "Unable to retrieve information. Please try again."
   },
   "GPS3": {
     "ZUBX_ESFM_GYROZ": -15.346,
-    "STATUS": "",
-  	"ERROR_DESC": ""
+    "STATUS": "SUCCESS",
+    "ERROR_DESC": "Unable to retrieve information. Please try again."
   }
 }
