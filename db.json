@@ -34,8 +34,8 @@
     "ZUBX_HW_JAMIND": 58,
     "ZUBX_HW_AGC": 5.4,
     "ZUBX_ESFM_GYROZ": 0.245,
-    "STATUS": "",
-  	"ERROR_DESC": ""
+    "STATUS": "SUCCESS",
+    "ERROR_DESC": "Unable to retrieve information. Please try again."
   },
   "GPS2": {
     "ZUBX_ESFM_GYROZ": 16.034,
