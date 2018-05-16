@@ -33,7 +33,7 @@
     "ZUBX_HW_NOISE": 67,
     "ZUBX_HW_JAMIND": 45,
     "ZUBX_HW_AGC": 11,
-    "ZUBX_ESFM_GYROZ": -0.245,
+    "ZUBX_ESFM_GYROZ": 0.245-,
     "STATUS": "SUCCESS",
     "ERROR_DESC": "Unable to retrieve information. Please try again."
   },
